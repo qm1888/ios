@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-
 <plist version="1.0">
-
 <dict>
-    <key>items</key>
+	<key>items</key>
 	<array>
 		<dict>
 			<key>assets</key>
@@ -14,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://103.28.44.220/ipa/MallApp/XPHProject.ipa</string>
+					<string>http://res.yaoqianpai.com/20140625/4247/4247.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -22,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://103.28.44.220/ipa/TEST/test.png</string>
+					<string>http://res.yaoqianpai.com/20140625/4247/4247.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -30,19 +27,19 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://103.28.44.220/ipa/TEST/test_display.png</string>
+					<string>http://res.yaoqianpai.com/20140625/4247/4247.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.mall.tt</string>
+				<string>com.mall.4247</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>MallShop</string>
+				<string>mx-006</string>
 			</dict>
 		</dict>
 	</array>
