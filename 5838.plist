@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://res.yaoqianpai.com/20150413/5838/5838.ipa</string>
+					<string>http://res.yaoqianpai.com/20150411/5838/5838.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://res.yaoqianpai.com/20150413/5838/5838.png</string>
+					<string>http://res.yaoqianpai.com/20150411/5838/5838.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://res.yaoqianpai.com/20150413/5838/5838.png</string>
+					<string>http://res.yaoqianpai.com/20150411/5838/5838.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
